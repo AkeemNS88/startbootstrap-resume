@@ -577,6 +577,15 @@ progress {
   margin-right: 0.5rem;
 }
 
+.thumbnail {
+  width: 65px;
+  height: 65px;
+  display: inline-block;
+  background-size: cover; /* or contain */
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
 .initialism {
   font-size: 0.875em;
   text-transform: uppercase;
